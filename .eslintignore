@@ -1,0 +1,18 @@
+# RNA
+# NPM
+/node_modules
+
+# LINT
+.eslintcache
+.stylelintcache
+
+# TEST
+/test/__coverage__
+/test/__generated__
+
+/dist
+/public
+
+# RNA
+
+/src/vendors

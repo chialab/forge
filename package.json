@@ -1,6 +1,6 @@
 {
   "name": "@chialab/forge",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A library for fonts manipulation built on the top of Opentype.js and Fontkit.",
   "directories": {
     "src": "src"

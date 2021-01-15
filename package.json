@@ -21,7 +21,7 @@
   "author": "Chialab <dev@chialab.io> (https://www.chialab.it)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chialab/forge.git"
+    "url": "git+https://github.com/chialab/forge.git"
   },
   "devDependencies": {
     "@types/fontkit": "^1.8.0",

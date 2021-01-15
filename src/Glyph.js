@@ -43,7 +43,7 @@ export class Glyph extends OpentypeGlyph {
             .toString();
         this._viewBox = {
             x: 0,
-            y: Math.round(font.descent),
+            y: 0,
             width: Math.round(this.advanceWidth || 0),
             height: Math.round(font.ascent - font.descent),
             ascent: font.ascent,
